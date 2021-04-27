@@ -30,5 +30,15 @@
 
 ## Interactive Dashboard
 ![Full_dashboard_update](https://user-images.githubusercontent.com/55612489/116198214-b0547e80-a703-11eb-9479-4e447d4ec9fa.png)
+### Target Audience
+1) US Citizenship and Immigration Services</br>
+2) Corporates of different sectors </br>
+3) Immigrants applying for US Visa </br>
+
+### Dashboard Insights
+1) We found that H-1B is the top visa application that is applied through the different companies and has most approved visas.</br>
+2) Amazon is amongst top 5 companies that file the highest number of visa applications. </br>
+3) Computer Engineering is the hottest job for which companies are filling visa application and has highest rate of approval. </br>
+4) India is the country with the most visa applications filed throughout the world and has the most approved cases. </br>
 
 
